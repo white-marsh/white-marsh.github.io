@@ -8,17 +8,9 @@
 
 title: 热爱星空的Python人民的首页
 description: 我的博客
-github_username: Astr-Code
-
-# Email and twitter are optional:
-email: zhang.yichi143@gmail.com
-twitter_username:
 
 # Set this to true to get LaTeX math equation support
 use_math: true
-
-# Add your Google Analytics ID here if you have one and want to use it
-google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 
