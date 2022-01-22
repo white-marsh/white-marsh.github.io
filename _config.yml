@@ -42,3 +42,5 @@ codeblock:
         enable: true
         show_result: true
         style: mac
+
+theme: jekyll-theme-minimal
